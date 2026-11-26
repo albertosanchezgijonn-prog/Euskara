@@ -1,0 +1,7 @@
+{
+  "appId": "eus.euskara.ab",
+  "appName": "Euskara A1-A2",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
